@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Distressed estate of the City of Dublin in Ireland at this present which is besieged by many thousands of the rebels, who commit most barbarous and bloody outrages and murders against the Protestants inhabiting about the city : with the copie of a wicked and bloody letter which was sent from one of the chiefe of the rebels in Ireland to an English merchant of London and a papist : full of bitternesse and cruelty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69862</idno>
+            <idno type="STC">Wing D1702</idno>
+            <idno type="STC">ESTC R1527</idno>
+            <idno type="EEBO-CITATION">11876007</idno>
+            <idno type="OCLC">ocm 11876007</idno>
+            <idno type="VID">50249</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50249)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 814:5, 1307:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Distressed estate of the City of Dublin in Ireland at this present which is besieged by many thousands of the rebels, who commit most barbarous and bloody outrages and murders against the Protestants inhabiting about the city : with the copie of a wicked and bloody letter which was sent from one of the chiefe of the rebels in Ireland to an English merchant of London and a papist : full of bitternesse and cruelty.</title>
+                  <author>P.T.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"True copy of a wicked and bloody letter" dated December 17, 1641, signed P.T.</note>
+                  <note>This item appears at reels 814:5 and 1307:18.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dublin (Ireland) --  History --  17th century.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50249:1"/>
+            <pb facs="tcp:50249:1" rendition="simple:additions"/>
+            <p>The Diſtreſſed Eſtate of the City of DVBLIN IN IRELAND at this preſent.</p>
+            <p>VVhich is beſieged by many thouſands of the Rebels, who commit moſt Barbarous and bloo<g ref="char:EOLhyphen"/>dy outrages and Murders againſt the Proteſtants in<g ref="char:EOLhyphen"/>habiting about the City.</p>
+            <p>VVith the Copie of a wicked and bloody Letter which was ſent from one of the chiefe of the Rebels in <hi>Ireland,</hi> to an <hi>Engliſh</hi> Merchant of <hi>London,</hi> and a Papiſt.</p>
+            <p>Full of bitterneſſe and cruelty.</p>
+            <p>LONDON, Printed for <hi>Iohn Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_conditions_in_Ireland">
+            <pb facs="tcp:50249:2" rendition="simple:additions"/>
+            <pb facs="tcp:50249:2"/>
+            <head>A True Relation of the Eſtate of <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">D</seg>Ivers ſtrange Reports and Rumours have beene ſpread and diffus'd about this Kingdome, few of which Reports have beene true, but falſe ſuggeſtions fomented by idle fellowes, who for ſome ſmall fragments of Silver thinke it no crime to abuſe the Eares of the world with ſtrange and unheard of untruth, therefore J have thought good to giue to the world a true and reall Satiſfaction of the eſtate of the Kingdome of <hi>Ireland,</hi> which J confeſſe is very deplorable, and deſerves our pitty, for great is their calamities, their enemies encreaſing daily, as touching the City of <hi>Dublin,</hi> whereas it was reported that it was taken, it was vntrue, for ſince the firſt Conſpira<g ref="char:EOLhyphen"/>cy againſt the Lord chiefe Juſtices, and the ſurpriſall of the Caſtle they never attempted any thing againſt the City, it being but a vaine attempt by reaſon that the Caſtle can command the City in deſpight of their reſiſtance, and for all the old Iriſh that went into <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> as ſoone as the Plot was diſcovered, they left the City and joyn'd with <hi>Mackqueres,</hi> for <hi>Tyrone</hi> arrived not till above 3. weekes after the Conſpiracy was diſ<g ref="char:EOLhyphen"/>covered, and they had gathered to a head, and plunde<g ref="char:EOLhyphen"/>red many places; and done divers outrages and mur<g ref="char:EOLhyphen"/>thers
+<pb facs="tcp:50249:3"/>
+being animated on by <hi>Macqueres</hi> who is of a bloody diſpoſition, but after <hi>Tyrones</hi> arrivall being made Generall he reſtrained them from ſuch bloody enterprizes, making Policy his chiefe engine to vſher miſchiefe, and where Policy prevailes not, force makes a paſſage, for great men he will intreate with courte<g ref="char:EOLhyphen"/>ſie, but if that be not of force to draw them to his par<g ref="char:EOLhyphen"/>ty, then doth he ſeaze of their eſtates, and learne them to ſeeke a grave of reſt rather then a life ſo deſpiacble, many places have they ſurprized, many murthers have they committed, great are the outrages that are daily done by them, many ſlight skirmiſhes there hath been between the Iriſh parties and the Proteſtants, Captain <hi>Digby</hi> on the 4. day of <hi>December</hi> happened to meet with Captaine <hi>Oneale,</hi> marching towards a little Vil<g ref="char:EOLhyphen"/>lage in the County of <hi>Monno,</hi> betwixt whom was a bloody ſalutation; but <hi>Oneales</hi> forces being greater then <hi>Digbies;</hi> the Proteſtants retreated with the loſſe of ſome men, many other times there hath been skir<g ref="char:EOLhyphen"/>miſhes too tedious at this time to be related, great are the feares of the Proteſtants which cauſes many to leave the Kingdome, and many have been ſhipwrackt by reaſon of the late tempeſtuous ſtormes, divers wo<g ref="char:EOLhyphen"/>men and children drown'd at Sea in the ſame ſhip that the Gentleman came in that made this Relation, who was miraculouſly preſerved, by Gods omnipo<g ref="char:EOLhyphen"/>tence and all commanding power, thus leaving all true Proteſtants to pray for their deliverance, and with their Prayer good Lord deliver them and preſerve us, and though our troubles be great yet the Lord will de<g ref="char:EOLhyphen"/>liver us out of all, <hi>Saue us good Lord we beſeech thee.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:50249:3"/>
+            <head>The true Copy of a wicked and bloody Letter which was ſent from <hi>Ireland</hi> to an <hi>Engliſh</hi> Merchant of <hi>London, Decem.</hi> 19. 1641</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>I Can do no leſſe but let you vnderſtand the affaires that we have now vndertaken, by reaſon that wee were ſuppreſſed in the exerciſe of our Religion, which we alwaies have profeſſed, and there is no alte<g ref="char:EOLhyphen"/>ration of it to be had by force, but by the will of God, if it doth pleaſe the Almighty God to alter our hearts, then no doubt but we ſhall be changed.</p>
+            <p>As yet we doe ſtand to maintaine the Roman Ca<g ref="char:EOLhyphen"/>tholique Church to be our true Church, whom we doe now ſight vnder; Therefore we doe not any thing but what our conſciences is bound to doe.</p>
+            <p>I pray you, doe but conſider how ſtiffely the Prote<g ref="char:EOLhyphen"/>ſtants did ſtand to maintaine their Religion in Q. <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> dayes, when ſhe proſecuted them to their lives, and did put ſo many to death both by fire and other torments, yet they would not alter their Religion that formerly they profeſſed, becauſe it was grounded in them by faith in Chriſt, as they did believe, therefore no force could prevaile with them, but they had rather ſuffer all the afflictions that poſſibly could be inven<g ref="char:EOLhyphen"/>ted againſt them, then to alter their Religion the which they had beene formerly grounded in.</p>
+            <p>
+               <pb facs="tcp:50249:4"/>Worthy Sr. Conſider our Eſtates, for the ſame is our Caſe at this time, you cannot but know, how that we are deprived of all our Liberty, and ſome of our Religion which are in <hi>England</hi> is ſo Perſecuted, euen to the Baniſhment of their Eſtates, and others of their lives, the which doth moue us to conſider of their Sufferings, and to make us to prevent the ſame occaſion to our ſelues in time, and whilſt that we have opportunity for feare their diſtreſſed caſes ſhould be ours, the which doth moue and ſtirre us up to maintain and defend that which we have begun, and to goe on freely to Redeeme our ſelves from that Bondage</p>
+            <p>For J dare be bold to ſay, if we could but enjoy the ſame Liberty of conſcience as formerly we have done that neither I nor any other would have taken up Armes againſt the King, for it hath beene our deſire to have lived in peace, and to have hazarded our Lives and Eſtates to have done him ſervice, if his Majeſty had Commanded vs therevnto, But ſeeing it other<g ref="char:EOLhyphen"/>wiſe we muſt maintaine that which is already on foot for better had we dye in the field, then to endure the miſeries that would have happened to us, for profeſſing that Religion, which our Predeceſſors from antiquity hath lived, and dyed in the defence thereof.</p>
+            <p>But as we are now in the field for the freedome of our conſcience, ſo will we undantedly proceed on for the perfecting of that good worke we have begun, nei<g ref="char:EOLhyphen"/>ther are we poſſeſſed with the terrour or feare of our enemies the Heretickes, who threaten our diſtruction, for out of a little ſtrength at firſt, have we increaſed to many Thouſands, and doe dayly ſtill increaſe, both
+<pb facs="tcp:50249:4"/>
+of our owne Country men, and divers others of our Brethren in <hi>England, France, Spaine,</hi> and the Low Countreyes, which continually come to aſſiſt us, there is a great ſight of Engliſh, and I doe beleive moſt of them are Proteſtants, which doth ſide with us, and that doth encourage us the more, for we doe march on boldly without feare as a man may ſay, for there is but a few which doth oppoſe us, and we are to march into <hi>Dublin,</hi> as wee ſuppoſe on the 21. of this Inſtant Moneth, for the major part o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the beſt of them which lives in the City will aſſiſt us therein, and they have ſent to us, to bid us not be diſmaied, but to come on freely and with coragious Spirits, for the Towne ſhall be delivered vp to us, as ſoone as we come to it, and the City Gates ſhould be Opened at our approach vnto the Walles, for there is but few to oppoſe &amp; with ſtand us, onely ſome certaine num<g ref="char:EOLhyphen"/>ber of Engliſh would put us hard to it at the firſt en<g ref="char:EOLhyphen"/>trance, but they made no doubt but they ſhould ſub<g ref="char:EOLhyphen"/>due them, and then the Towne ſhould be theirs,</p>
+            <closer>
+               <salute>Vale,</salute>
+               <signed>Your freind <hi>P. T.</hi>
+               </signed>
+               <dateline>From our Campe neere <hi>Dub<g ref="char:EOLhyphen"/>lin</hi>
+                  <date>Decemb. 17. 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
